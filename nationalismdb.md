@@ -2,7 +2,7 @@
 title: 爱国数据库
 description: 中华民族崛起的故事
 published: true
-date: 2020-04-26T01:40:12.816Z
+date: 2020-04-26T05:29:45.542Z
 tags: 
 ---
 
@@ -11,7 +11,7 @@ tags:
 <div>
   
 # 线下运动
-每场线下运动都有四个基本标签：所在地城市、所在地省份/州、所在地国家/地区、所在地洲。若运动发生于当地著名区域或大学校园，则该地点也会成为标签之一。因wiki.js不支持多语言标签，所有地理位置类标签（除当地官方语言为中文之外）统一使用英文。例如发生于昆士兰大学的[返送中冲突](/nationalismdb/university-of-queensland-protests)包含以下标签：
+本站收录的每场线下运动条目都有四个基本标签：所在地城市、所在地省份/州、所在地国家/地区、所在地洲。若运动发生于当地著名区域或大学校园，则该地点也会成为标签之一。因wiki.js不支持多语言标签，所有地理位置类标签（除当地官方语言为中文之外）统一使用英文。例如发生于昆士兰大学的[返送中冲突](/nationalismdb/university-of-queensland-protests)包含以下标签：
 - [University of Queensland](/t/university%20of%20queensland) （昆士兰大学）
 - [Brisbane](/t/brisbane) （布里斯本）
 - [Queensland](/t/queensland) （昆士兰）
