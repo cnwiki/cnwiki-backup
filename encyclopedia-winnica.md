@@ -2,7 +2,7 @@
 title: 乳包百科
 description: 
 published: true
-date: 2020-04-26T21:25:30.501Z
+date: 2020-04-26T21:33:00.848Z
 tags: 
 ---
 
@@ -59,6 +59,11 @@ Mr. Shithole：2020年习近平访问缅甸，Facebook上的缅甸语出现习�
 拉清单：追究责任，出自习近平2014年在干部培训会议的演讲，被浙江共青团在bilibili弹幕视频网上面发布。
 四个乳包：与膜蛤相似，乳包包括了「文乳」「武乳」「暴力乳」「尬乳」四种乳法，请参照四个膜蛤
 乳学家：与“儒学家”谐音，用以称呼乳包水平高的人，对应膜蛤水平高的“膜法师”
+
+## 习近平家人
+- [齐心](/encyclopedia-winnica/qi-xin) （母亲）
+- [习仲勋](/encyclopedia-winnica/xi-zhong-xun) （父亲）
+- [习明泽/楚晨](/encyclopedia-winnica/xi-ming-ze) （女儿）
 
 # 相关事件
 
