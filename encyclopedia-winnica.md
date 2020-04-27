@@ -2,7 +2,7 @@
 title: 乳包百科
 description: 
 published: true
-date: 2020-04-27T03:03:35.539Z
+date: 2020-04-27T03:12:26.683Z
 tags: 
 ---
 
@@ -10,6 +10,8 @@ tags:
 
 > 该条目仍在施工中。
 {.is-warning}
+
+![xi-jin-ping-leaked.jpg](/portraits/nonfiction/xi-jin-ping-leaked.jpg){.align-abstopright}
 
 辱包，又常被写作“乳包”，是网络政治用语，指针对中共中央总书记习近平的言论、行为进行模仿、恶搞、侮辱的网路迷因。 「辱」字取「侮辱」之意（乳为谐音），而「包」则源于「包子」，出自习近平曾[到访庆丰包子铺作秀吃包子](https://zh.wikipedia.org/zh-hans/習近平吃包子事件)。中国网友亦喜欢用「庆丰」一词指代习近平。
 
