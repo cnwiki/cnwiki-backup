@@ -2,7 +2,7 @@
 title: 乳包百科
 description: 
 published: true
-date: 2020-04-27T02:50:12.936Z
+date: 2020-04-27T03:03:35.539Z
 tags: 
 ---
 
@@ -63,6 +63,7 @@ tags:
 ## 习近平家人
 - [齐心](/encyclopedia-winnica/qi-xin) （母亲）
 - [习仲勋](/encyclopedia-winnica/xi-zhong-xun) （父亲）
+- [彭丽媛](/encyclopedia-winnica/peng-li-yuan) （夫人）
 - [习明泽/楚晨](/encyclopedia-winnica/xi-ming-ze) （女儿）
 
 # 相关事件
