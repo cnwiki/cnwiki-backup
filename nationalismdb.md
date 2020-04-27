@@ -2,7 +2,7 @@
 title: 爱国数据库
 description: 中华民族崛起的故事
 published: true
-date: 2020-04-26T05:29:45.542Z
+date: 2020-04-27T14:16:00.726Z
 tags: 
 ---
 
@@ -28,8 +28,8 @@ tags:
 #### [美国](/t/united%20states)
 - [华盛顿](/t/washington)
 - [加利福尼亚](/t/california)
+- [伊利诺伊](/t/illinois)
 - [纽约](/t/new%20york)
-  
 ### [欧洲](/t/europe)
 #### [英国](/t/united%20kingdom)
 #### [法国](/t/france)
