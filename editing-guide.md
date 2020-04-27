@@ -2,13 +2,13 @@
 title: 编辑指南
 description: 
 published: true
-date: 2020-04-27T14:59:54.750Z
+date: 2020-04-27T19:31:48.954Z
 tags: 
 ---
 
 任何人都可以编辑赤维的页面，而该指南可以帮你更好地做到这一点。
 # 编辑器
-支维使用的wiki.js系统当前支持三种编辑器，他们分别是：markdown、html、visual editor。
+赤维使用的wiki.js系统当前支持三种编辑器，他们分别是：markdown、html、visual editor。
 
 ## markdown
 markdown编辑器足以胜任大部分页面的撰写工作。其功能远少于mediawiki的wikitext，不过因此语法也简单很多。
