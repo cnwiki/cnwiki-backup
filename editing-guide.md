@@ -2,7 +2,7 @@
 title: 编辑指
 description: 
 published: true
-date: 2020-04-27T14:54:39.810Z
+date: 2020-04-27T14:59:35.613Z
 tags: 
 ---
 
@@ -19,7 +19,7 @@ markdown的学习资料有:
 
 ## html
 若你所编辑的页面需要用到更复杂的排版的话（例如[词典](/zh/dictionary)页面所用到的三纵列布局），你应该选择该编辑器。
-目前，每个页面都被注入了下列css class来方便排版。[首页](/zh/home)使用了前两个class，而[爱国数据库](/zh/nationalismdb)则使用了后两个类。你可以前往这些页面，点击右上角操作->源文件来作为使用实例。
+目前，每个页面都被注入了下列css class来方便排版。[首页](/zh/home)使用了前两个class，而[爱国数据库](/zh/nationalismdb)则使用了后两个类。你可以前往这些页面，点击右上角操作->源文件来查看使用实例。
 ```css
 .c-grid {
   display: grid
