@@ -2,7 +2,7 @@
 title: 齐心
 description: 
 published: true
-date: 2020-04-28T00:28:37.535Z
+date: 2020-04-28T00:29:47.899Z
 tags: 
 ---
 
@@ -10,4 +10,4 @@ tags:
 
 
 
-![qi-xin.gif](/portraits/nonfiction/qi_xin.gif){.align-abstopright}
+![qi-xin.gif](/portraits/nonfiction/qi-xin.gif){.align-abstopright}
