@@ -2,7 +2,7 @@
 title: 爱国数据库
 description: 犯我中华者，虽远必诛
 published: true
-date: 2020-04-29T00:16:06.780Z
+date: 2020-04-30T00:35:05.999Z
 tags: 
 ---
 
@@ -20,32 +20,20 @@ tags:
 
 ## 地理位置列表
 ### [北美洲](/t/north%20america)
-#### [加拿大](/t/canada)
-- [英属哥伦比亚](/t/british%20colombia)
-- [阿尔伯塔](/t/alberta)
-- [安大略](/t/ontario)
-- [魁北克](/t/quebec)
-#### [美国](/t/united%20states)
-- [华盛顿](/t/washington)
-- [加利福尼亚](/t/california)
-- [伊利诺伊](/t/illinois)
-- [纽约](/t/new%20york)
+- [加拿大](/t/canada)
+- [美国](/t/united%20states)
 ### [欧洲](/t/europe)
-#### [英国](/t/united%20kingdom)
-#### [法国](/t/france)
+- [英国](/t/united%20kingdom)
+- [法国](/t/france)
   
 ### [亚洲](/t/asia)
-#### [韩国](/t/korea)
-#### [台湾](/t/taiwan)
-#### [香港](/t/hong%20kong)
+- [韩国](/t/korea)
+- [台湾](/t/taiwan)
+- [香港](/t/hong%20kong)
   
 ### [大洋洲](/t/oceania)
-#### [澳大利亚](/t/australia)
-- [昆士兰](/t/queensland)
-- [维多利亚](/t/victoria)
-- [新南威尔士](/t/new%20south%20wales)
-#### [新西兰](/t/new%20zealand)
-- [奥克兰](/t/auckland) （城市）
+- [澳大利亚](/t/australia)
+- [新西兰](/t/new%20zealand)
   </div>
   <div>
     
