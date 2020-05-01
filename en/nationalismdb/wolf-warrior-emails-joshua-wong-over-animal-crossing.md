@@ -2,7 +2,7 @@
 title: Wolf warrior cusses at Joshua Wong but accidentally curses his own family
 description: Shooting yourself in the foot
 published: true
-date: 2020-05-01T01:07:11.921Z
+date: 2020-05-01T01:17:54.453Z
 tags: 
 ---
 
@@ -14,4 +14,4 @@ Notably, in the email, the sender asserts that he is Joshua Wong's father, yet h
 **Title:** Although the Qingming Festival has already passed, I still pray that your family dies.
 **Body:** To be finished
 # QQ email address privacy leak
-Because most QQ accounts are intimately tied to a person's true identity, one could easily use the QQ number shown in the screenshot as a starting point for social engineering⁠—a dangerous attack vector to the sendor.
+Because most QQ accounts are intimately tied to a person's true identity, one could easily use the QQ number shown in the screenshot as a starting point for social engineering⁠—a potent attack vector.
