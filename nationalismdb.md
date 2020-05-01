@@ -2,7 +2,7 @@
 title: 爱国数据库
 description: 犯我中华者，虽远必诛
 published: true
-date: 2020-04-30T00:35:05.999Z
+date: 2020-05-01T00:23:52.323Z
 tags: 
 ---
 
@@ -42,7 +42,7 @@ tags:
     
     - 中泰网民twitter大战
     - 围攻方方
-    - 
+    - [战狼咒骂黄之峰，大意诅咒自己全家](/zh/nationalismdb/wolf-warrior-emails-joshua-wong-over-animal-crossing)
     
   </div>
   <div>
