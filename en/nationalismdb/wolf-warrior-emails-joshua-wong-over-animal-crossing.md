@@ -1,8 +1,8 @@
 ---
-title: Wolf warrior cusses at Joshua Wong but accidentally curses his own family
+title: Wolf warrior emails Joshua Wong over Animal Crossing
 description: Shooting yourself in the foot
 published: true
-date: 2020-05-01T01:17:54.453Z
+date: 2020-05-08T19:49:41.465Z
 tags: 
 ---
 
