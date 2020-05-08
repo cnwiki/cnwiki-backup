@@ -2,7 +2,7 @@
 title: NationalismDb
 description: 
 published: true
-date: 2020-05-08T19:58:31.827Z
+date: 2020-05-08T19:59:50.282Z
 tags: 
 ---
 
@@ -43,7 +43,7 @@ Each record under this category has four essential tags: the city, provice/state
     - In an email to Joshua Wong, a Hong Kong pro-democracy activist, a wolf warrior cusses at him but [accidentally curses his own family](/en/nationalismdb/wolf-warrior-emails-joshua-wong-over-animal-crossing)
     - A Zhihu user shares his tactics to sow discord against the American establishment on Reddit. He gets promptly exposed on r/China, where his tactics were derived as being amateurish.
     - Chinese state media fan the flames of hate against Fan Jiayan, a writer of Chinese descent for the New Yorker. Wolf warriors subsequently inundate her with hate mail.
-    - Fans of Sun Yang, the now disgraced Chinese swimming medalist, carry out a campaign of hate and fear against the f
+    - Fans of Sun Yang, the now disgraced Chinese swimming medalist, carry out a campaign of hate and fear against the family of Australian swimmer Mack Horton.
     
   </div>
   <div>
