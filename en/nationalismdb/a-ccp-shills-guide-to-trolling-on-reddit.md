@@ -2,7 +2,7 @@
 title: A CCP shill's guide to trolling on Reddit
 description: 
 published: true
-date: 2020-05-14T00:18:38.278Z
+date: 2020-05-14T00:22:45.650Z
 tags: 
 ---
 
@@ -39,7 +39,7 @@ Below is a screenshot of the answer in its final form, including the author's la
 Zhihu users highly praised cardicrow's efforts, showering the post with more than 26000 upvotes. 
 
 ### Accolades
-Three Zhihu users went the extra mile and bestowed a medal (a built-in mechanism of Zhihu) to the answer, commending its "Professionalism." The bestowers include (all information are self-described and public): an accountant, a manager of a tech company in Fuzhou, and a product designer in the San Francisco Bay Area.
+Three Zhihu users went the extra mile and bestowed a medal (a built-in mechanism of Zhihu) upon the answer, commending its "professionalism." The bestowers include (all information are self-described and public): an accountant, a manager of a tech company in Fuzhou, and a product designer in the San Francisco Bay Area.
 
 ## Reddit
 Most responses in the /r/China thread derided cardicrow's trolling attempts as feeble, claiming that attacking the US government was something most Americans would do anyway, and it is an integral part of a functioning democracy. A handful of users were baffled by cardicrow's obsession with India, which other users hypothesized was the result of the Chinese people's longstanding contempt and racism against Indians.
