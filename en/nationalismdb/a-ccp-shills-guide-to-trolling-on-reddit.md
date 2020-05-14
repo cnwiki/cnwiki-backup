@@ -2,7 +2,7 @@
 title: A CCP shill's guide to trolling on Reddit
 description: 
 published: true
-date: 2020-05-14T00:14:18.883Z
+date: 2020-05-14T00:18:38.278Z
 tags: 
 ---
 
@@ -34,8 +34,6 @@ Below is a screenshot of the answer in its final form, including the author's la
 ![reddit_trolling_guide.png](/screenshots/zhihu/reddit_trolling_guide.png)
 
 # Reception
-## Reddit
-Most responses in the /r/China thread derided cardicrow's trolling attempts as feeble, claiming that attacking the US government was something most Americans would do anyway, and it is an integral part of a functioning democracy. A handful of users were baffled by cardicrow's obsession with India, which other users hypothesized was the result of the Chinese people's longstanding contempt and racism against Indians.
 
 ## Zhihu
 Zhihu users highly praised cardicrow's efforts, showering the post with more than 26000 upvotes. 
@@ -43,8 +41,14 @@ Zhihu users highly praised cardicrow's efforts, showering the post with more tha
 ### Accolades
 Three Zhihu users went the extra mile and bestowed a medal (a built-in mechanism of Zhihu) to the answer, commending its "Professionalism." The bestowers include (all information are self-described and public): an accountant, a manager of a tech company in Fuzhou, and a product designer in the San Francisco Bay Area.
 
+## Reddit
+Most responses in the /r/China thread derided cardicrow's trolling attempts as feeble, claiming that attacking the US government was something most Americans would do anyway, and it is an integral part of a functioning democracy. A handful of users were baffled by cardicrow's obsession with India, which other users hypothesized was the result of the Chinese people's longstanding contempt and racism against Indians.
+
+
 # Author's profile
 ## Zhihu
+Archived Zhihu profile: https://archive.is/0tbJd
+
 Apart from the post in question,  the rest of cardicrow's posts on Zhihu are an eclectic mix of Buddhism, antisemitism, and American Law, with a few single posts on topics ranging from World of Warcraft to cat-rearing sprinkled in-between. 
 
 ### a US education for a US basher
