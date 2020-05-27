@@ -2,8 +2,8 @@
 title: A CCP shill's guide to trolling on Reddit
 description: 
 published: true
-date: 2020-05-14T00:22:45.650Z
-tags: 
+date: 2020-05-27T02:46:46.577Z
+tags: online movement
 ---
 
 In response to the question "What do you think of the anti-China sentiment in America" on Zhihu, a user posted a guide to sowing discontent against the American authorities on Reddit. Another Reddit user subsequently exposed the trolling attempts on /r/China, along with a translation of the text.
