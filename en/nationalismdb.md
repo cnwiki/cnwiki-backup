@@ -2,7 +2,7 @@
 title: NationalismDb
 description: 
 published: true
-date: 2020-05-27T02:44:38.296Z
+date: 2020-05-27T02:45:59.082Z
 tags: 
 ---
 
@@ -39,9 +39,10 @@ Each record under this category has four essential tags: the city, provice/state
   <div>
     
     <h1>Online Movements</h1>
-    
-> For all entries of this type, see the tag
-{.is-info}
+    <blockquote class="is-info line">
+      <p>For all entries of this type, see the tag <a href="/t/online movement">online movement</a></p>
+      
+    </blockquote>
 
     
     <h2>Highlights</h2>
