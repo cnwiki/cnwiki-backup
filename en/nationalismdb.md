@@ -2,7 +2,7 @@
 title: NationalismDb
 description: 
 published: true
-date: 2020-05-14T02:41:20.325Z
+date: 2020-05-27T02:44:38.296Z
 tags: 
 ---
 
@@ -38,8 +38,14 @@ Each record under this category has four essential tags: the city, provice/state
   </div>
   <div>
     
-    # Online Movements
-   
+    <h1>Online Movements</h1>
+    
+> For all entries of this type, see the tag
+{.is-info}
+
+    
+    <h2>Highlights</h2>
+    
     - In an email to Joshua Wong, a Hong Kong pro-democracy activist, a wolf warrior cusses at him but [accidentally curses his own family](/en/nationalismdb/wolf-warrior-emails-joshua-wong-over-animal-crossing)
     - [A Zhihu user shares his experience in trolling on Reddit](/en/nationalismdb/a-ccp-shills-guide-to-trolling-on-reddit). Users of /r/China promptly expose him, with some calling his tactics weak and ineffective.
     - Chinese state media fan the flames of hate against Fan Jiayan, a writer of Chinese descent for the New Yorker. Wolf warriors subsequently inundate her with hate mail.
