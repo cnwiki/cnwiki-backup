@@ -2,7 +2,7 @@
 title: NationalismDb
 description: 
 published: true
-date: 2020-05-27T02:55:23.936Z
+date: 2020-05-27T02:56:47.474Z
 tags: 
 ---
 
@@ -44,6 +44,7 @@ Each record under this category has four essential tags: the city, provice/state
   <div>
     
   # Art and Media
+    <blockquote class="is-info line">
     <p>For all entries of this type, see the tag <a href="/t/art and media">art and media</a></p>
   </div>
 </div>
