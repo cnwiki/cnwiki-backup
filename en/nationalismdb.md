@@ -2,11 +2,11 @@
 title: NationalismDb
 description: 
 published: true
-date: 2020-05-27T02:56:47.474Z
+date: 2020-05-27T02:58:30.318Z
 tags: 
 ---
 
-This is NationalismDb's index page. Each record in the database belongs to one of the three listed categories. Each category has different tagging rules to allow for more fine-grained organization.
+This is NationalismDb's index page. Each record in the database belongs to one of the three listed types below. Along with a tag that specifies its type, each entry may have additional tags based on rules specific to each type.
 <div class="c-flex home-flex">
 <div>
   
