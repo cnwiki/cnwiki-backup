@@ -2,8 +2,8 @@
 title: Wolf warrior emails Joshua Wong over Animal Crossing
 description: Shooting yourself in the foot
 published: true
-date: 2020-05-27T02:40:23.174Z
-tags: 
+date: 2020-05-27T02:41:05.986Z
+tags: online movement
 ---
 
 After screenshots of Hong Kong protestors using Animal Crossing, a console game for the Switch by Nintendo, to voice their dissent against the Chinese and Hong Kong government began to circulate online, the Chinese authorities promptly banned the sale of the game on Taobao and Xianyu (咸鱼, another C2C marketplace created by the same company behind Taobao). This prompted a wolf warrior to send an expletive-laden email to Joshua Wong, blaming him for causing the ban. 
