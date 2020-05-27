@@ -2,11 +2,11 @@
 title: NationalismDb
 description: 
 published: true
-date: 2020-05-27T02:58:30.318Z
+date: 2020-05-27T02:59:42.607Z
 tags: 
 ---
 
-This is NationalismDb's index page. Each record in the database belongs to one of the three listed types below. Along with a tag that specifies its type, each entry may have additional tags based on rules specific to each type.
+This is NationalismDb's index page. Each record in the database belongs to one of the three listed types below. Along with a tag that specifies its type, each entry may have additional type-specific tags.
 <div class="c-flex home-flex">
 <div>
   
@@ -15,7 +15,8 @@ This is NationalismDb's index page. Each record in the database belongs to one o
   <blockquote class="is-info line">
       <p>For all entries of this type, see the tag <a href="/t/offline movement">offline movement</a></p>
     </blockquote>
-  
+
+  ## Type-specific tags
 Each record under this category has four essential tags: the city, provice/state, country/region, and continent in which the movement occured. If the movement occured on a college campus or local landmark, then that location will also become a tag. For instance, the [University of Queensland protests](/nationalismdb/university-of-queensland-protests) entry will have the following tags：
 - [University of Queensland](/t/university%20of%20queensland)
 - [Brisbane](/t/brisbane)
