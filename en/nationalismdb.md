@@ -2,7 +2,7 @@
 title: NationalismDb
 description: 
 published: true
-date: 2020-05-27T02:48:18.013Z
+date: 2020-05-27T02:55:23.936Z
 tags: 
 ---
 
@@ -23,23 +23,6 @@ Each record under this category has four essential tags: the city, provice/state
 - [Australia](/t/australia)
 - [Oceania](/t/oceania)
 
-## List of Geographical Locations
-### [North America](/t/north%20america)
-- [Canada](/t/canada)
-- [United States](/t/united%20states)
-  
-### [Europe](/t/europe)
-- [United Kingdom](/t/united%20kingdom)
-- [France](/t/france)
-  
-### [Asia](/t/asia)
-- [Korea](/t/korea)
-- [Taiwan](/t/taiwan)
-- [Hong Kong](/t/hong%20kong)
-  
-### [Oceana](/t/oceania)
-- [Australia](/t/australia)
-- [New Zealand](/t/new%20zealand)
   </div>
   <div>
     
@@ -61,6 +44,7 @@ Each record under this category has four essential tags: the city, provice/state
   <div>
     
   # Art and Media
+    <p>For all entries of this type, see the tag <a href="/t/art and media">art and media</a></p>
   </div>
 </div>
 
