@@ -2,7 +2,7 @@
 title: A CCP shill's guide to trolling on Reddit
 description: 
 published: true
-date: 2020-05-27T02:46:46.577Z
+date: 2020-06-02T08:19:49.954Z
 tags: online movement
 ---
 
@@ -10,7 +10,7 @@ In response to the question "What do you think of the anti-China sentiment in Am
 
 #  Timeline
 ## The original post
-On March 21, 2020, the question  "What do you think of the anti-China sentiment in America" was posted on Zhihu by user ChaNg1o, possibly referring to the rising dissatisfaction against the Chinese government's effort to cover up the initial outbreak of COVID-19 in December 2019. On April 24, (cardicrow)[https://www.zhihu.com/people/cardicrow] responded with a tangentially-related answer that essentially is a field guide to sowing discontent against the American government on Reddit. The answer was well-received, prompting cardicrow to add a screenshot of what he considered as a successful trolling attempt on Reddit to the original answer.
+On March 21, 2020, the question  "What do you think of the anti-China sentiment in America" was posted on Zhihu by user ChaNg1o, possibly referring to the rising dissatisfaction against the Chinese government's effort to cover up the initial outbreak of COVID-19 in December 2019. On April 24, [cardicrow](https://www.zhihu.com/people/cardicrow) responded with a tangentially-related answer that essentially is a field guide to sowing discontent against the American government on Reddit. The answer was well-received, prompting cardicrow to add a screenshot of what he considered as a successful trolling attempt on Reddit to the original answer.
 
 An archive of the answer, up to the point when cardicrow added his 'successful' trolling attempt:[https://archive.is/8ZGvA](https://archive.is/8ZGvA)
 
