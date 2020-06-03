@@ -2,9 +2,12 @@
 title: Untitled Page
 description: 
 published: true
-date: 2020-04-28T11:35:18.569Z
+date: 2020-06-03T04:40:59.085Z
 tags: 
 ---
 
-# Header
-Your content here
+Here is a footnote reference,[^1] and another.[^longnote]
+
+[^1]: Here is the footnote.
+
+[^longnote]: Here's one with multiple blocks.
