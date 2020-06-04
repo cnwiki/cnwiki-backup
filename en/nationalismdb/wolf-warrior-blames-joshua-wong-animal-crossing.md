@@ -2,11 +2,11 @@
 title: Fulminating wolf warrior blames Joshua Wong for the banning of Animal Crossing in China
 description: 
 published: true
-date: 2020-06-04T20:06:42.213Z
+date: 2020-06-04T20:14:56.365Z
 tags: online movement
 ---
 
-After screenshots of Hong Kong protestors using Animal Crossing, a videogame published by Nintendo, to voice their dissent against the Chinese and Hong Kong government began to circulate online, the Chinese authorities promptly banned the sale of the game on Taobao and Xianyu (咸鱼, another C2C marketplace created by the same company behind Taobao). This prompted a wolf warrior to send an expletive-laden email to Joshua Wong, blaming him for causing the ban. 
+After screenshots of Hong Kong protestors using Animal Crossing, a videogame published by Nintendo, to voice their dissent against the Chinese and Hong Kong government began to circulate online, the Chinese authorities banned the sale of the game on Taobao and Xianyu (咸鱼, another C2C marketplace created by the same company behind Taobao). This prompted a wolf warrior to send an expletive-laden email to Joshua Wong, blaming him for causing the ban. 
 Notably, in the email, the sender asserts that he is Joshua Wong's father, yet he also curses Wong's family to death in the title. Additionally, he wished for the graves of Wong's ancestors to "enter the ocean," a nonsensical phrase which is most likely to be a poor attempt to insult. This inadvertent attack on his own family is a prime example of the lack of intelligence displayed by most wolf warriors.
 # Email Contents
 ![wolf-warrior-emails_joshua_wong_over_animal_crossing.png](/screenshots/wolf-warrior-emails_joshua_wong_over_animal_crossing.png)
