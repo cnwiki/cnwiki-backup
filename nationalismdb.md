@@ -2,7 +2,7 @@
 title: 爱国数据库
 description: 犯我中华者，虽远必诛
 published: true
-date: 2020-06-02T04:56:37.589Z
+date: 2020-06-05T01:16:20.017Z
 tags: 
 ---
 
@@ -18,28 +18,12 @@ tags:
 - [Australia](/t/australia) （澳大利亚）
 - [Oceania](/t/oceania) （大洋洲）
 
-## 地理位置列表
-### [北美洲](/t/north%20america)
-- [加拿大](/t/canada)
-- [美国](/t/united%20states)
-### [欧洲](/t/europe)
-- [英国](/t/united%20kingdom)
-- [法国](/t/france)
-  
-### [亚洲](/t/asia)
-- [韩国](/t/korea)
-- [台湾](/t/taiwan)
-- [香港](/t/hong%20kong)
-  
-### [大洋洲](/t/oceania)
-- [澳大利亚](/t/australia)
-- [新西兰](/t/new%20zealand)
   </div>
   <div>
     
     # 线上运动
-    > 下面只是一些可以做成具体文章的例子。我们可以等写出具体文章后再决定’线上运动’文章的分类方法并将这个索引写好。
-    
+    > 若想浏览该类别下的所有条目，请查看标签[线上创作](/t/线上运动)
+{.is-info}
     - 中泰网民twitter大战
     - 围攻方方
     - [战狼咒骂黄之峰，大意诅咒自己全家](/zh/nationalismdb/wolf-warrior-emails-joshua-wong-over-animal-crossing)
