@@ -1,8 +1,8 @@
 ---
-title: 战狼咒骂黄之峰，大意诅咒自己全家
+title: 战狼因动黄之峰，大意诅咒自己全家
 description: 搬起石头砸自己的脚
 published: true
-date: 2020-05-01T00:28:27.251Z
+date: 2020-06-05T01:12:49.070Z
 tags: 
 ---
 
